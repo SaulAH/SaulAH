@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about how a car's engine works :car:
 - 📫 How to reach me: saul.arranz.herrero@gmail.com
 - 😄 Pronouns: SaulAH
-- ⚡ Fun fact: I'm a traveller :airplane:, foodie :fork_and_knife:, cooker, mountain biker :mountain_bicyclist: and much more.
+- ⚡ Fun fact: I'm a traveller :airplane:, foodie :fork_and_knife:, mountain biker :mountain_bicyclist: and much more.
 
