@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: saul.arranz.herrero@gmail.com
 - 😄 Pronouns: SaulAH
 - ⚡ Fun fact: I'm a traveller :airplane:, foodie :fork_and_knife:, mountain biker :mountain_bicyclist: and much more.
+- 📫 You can reach me https://www.linkedin.com/in/saularranz/
 
