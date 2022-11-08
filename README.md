@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Automotive Engineering
 - 🌱 I’m currently learning data science 
-- 👯 I’m looking to collaborate on data science
+- 👯 I’m currently looking for job as a data analyst
 - 🤔 I’m looking for help with Python, Git, GitHub
 - 💬 Ask me about how a car's engine works :car:
 - 📫 How to reach me: saul.arranz.herrero@gmail.com
